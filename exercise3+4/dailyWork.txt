@@ -1,0 +1,13 @@
+add 32769 a 1 nam
+add 65538 b 0 tung
+add 32769 c 1 nam
+add 65538 d 0 tung
+serve 32769 a
+serve 65538 b
+serve 32769 c
+serve 65538 d
+add 32769 a 0 nam
+add 32769 a 0 nam
+serve 32769 a
+add 32769 a 0 nam
+serve 32769 a
